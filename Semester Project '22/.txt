@@ -1,0 +1,77 @@
+-----------Monday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Tuesday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Wednesday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Thursday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Friday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Saturday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+-----------Sunday------------
+Breakfast: cereal
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Lunch: tuna sandwich
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Snack: goldfish
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
+Dinner: enchiladas
+	Protein: , Grains: , Fruits: , Veggies: , Fats: , Dairy: 
