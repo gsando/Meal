@@ -717,11 +717,4 @@ public static Component styleLabel(Component b) {
 }
 public void actionPerformed(ActionEvent ev) {
 	}
-
-//public void newMealFile(String fileName, LinkedList<Meal> meals) {
-//	
-//	
-//	
-//	
-//	}
 }
